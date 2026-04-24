@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# XAMPP / local config
+
+
+# Uploaded user images (don't commit user content)
+images/uploads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Docker volumes
+db_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
