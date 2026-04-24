@@ -1,6 +1,6 @@
 # 🚗 Car Diagnostic Assistant
 
-A smart, web-based diagnostic platform that helps car owners identify and troubleshoot vehicle issues — without visiting a service center. Built as a graduation project by **Group YM24 at Taibah University, Yanbu (2024)**.
+A smart, web-based diagnostic platform that helps car owners identify and troubleshoot vehicle issues — without visiting a service center. Built as a graduation project by **Group YM24 at Taibah University, Yanbu (2024-2025)**.
 
 The platform bridges the gap between everyday users and professional mechanics through **AI-based engine diagnostics**, symptom reporting, nearby mechanic search, and a community-driven support system.
 
