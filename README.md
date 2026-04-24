@@ -6,11 +6,6 @@ Built as a graduation project using **PHP**, **MySQL**, **Python**, and a traine
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your home page, symptom reporting screen, AI recommendation result, and mechanic dashboard here._
-
----
 
 ## ✨ Features
 
@@ -214,8 +209,8 @@ User submits:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Graduation Project — [Your University Name], [Year]
+**Mohammed Alkhurayji**  
+Graduation Project — Taibah University, 2025
 
 ---
 
